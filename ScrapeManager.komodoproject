@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="0778a083-5b24-7746-9881-4b412bfcaf82" kpf_version="5" name="ScrapeManager.komodoproject">
+<livefolder id="2866a209-d9ff-574e-9348-b4114aadc9f7" idref="0778a083-5b24-7746-9881-4b412bfcaf82" name="EmailAlert" url="EmailAlert">
+</livefolder>
+<livefolder id="894eedae-0182-d64c-8e19-50e81f7234ed" idref="0778a083-5b24-7746-9881-4b412bfcaf82" name="DateMath" url="DateMath">
+</livefolder>
+<livefolder id="aca7a529-9d38-e84e-bdad-12ae99915954" idref="0778a083-5b24-7746-9881-4b412bfcaf82" name="Retrieve" url="Retrieve">
+</livefolder>
+<livefolder id="bef78074-98d5-2e4e-a176-d71bd3f20909" idref="0778a083-5b24-7746-9881-4b412bfcaf82" name="Log" url="Log">
+</livefolder>
+<livefolder id="f39e1ca5-3f2f-8644-bc76-ec04ae0a84b2" idref="0778a083-5b24-7746-9881-4b412bfcaf82" name="InputValidation" url="InputValidation">
+</livefolder>
+</project>
